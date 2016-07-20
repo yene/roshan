@@ -1,2 +1,2 @@
 # Roshan Timer
-Refresh to restart timer.
+A voice tells you the status of Roshan. Refresh to restart timer.
